@@ -1,13 +1,14 @@
 [
   {
-    "clgNAme": "KJSIT",
-    "name": "Sidhesh Shah",
-    "email": "sidheshshah@gmail.com",
-    "phone": "9876543210",
-    "address": "123, Main St, Anytown, USA",
-    "city": "Anytown",
-    "state": "CA",
-    "zip": "12345",
-    "country": "USA"
+    "Organisation": "K. J SOMAIYA INSTITUTE OF TECHNOLOGY",
+    "Name": "SAHU SIDHESH SANJAY SNEHALATA",
+    "Examination": "FIRST YEAR B.Tech, ARTIFICIAL INTELLIGENCE & DATA SCIENCE",
+    "Semester": "I",
+    "Seat No": "22251055",
+    "Exam Date": "DECEMBER 2022",
+    "Obtained Marks/Total Marks": "579/650",
+    "Percentage": "89.08 %",
+    "Remark": "SUCCESSFUL",
+    "Place": "MUMBAI"
   }
 ]
